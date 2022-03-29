@@ -20,7 +20,7 @@
 	<div class="flex h-screen">
 		<div class="m-auto w-fit mobile:w-11/12 sm:w-7/12 md:w-6/12 lg:w-4/12 desktop:w-3/12">
 			<div
-				class="space-y-5 mx-5 p-5 rounded-3xl bg-gradient-to-b from-modal-gradient-1 to-modal-gradient-2"
+				class="space-y-5 py-10 px-6 rounded-3xl bg-gradient-to-b from-modal-gradient-1 to-modal-gradient-2"
 			>
 				<slot />
 			</div>
