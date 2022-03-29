@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
-- [Design](#design)
+- [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -39,6 +39,6 @@ Users should be able to:
 - [SvelteKit](https://kit.svelte.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
 
-## Design
+## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@YourFavoriteKyle](https://www.frontendmentor.io/profile/YourFavoriteKyle)
