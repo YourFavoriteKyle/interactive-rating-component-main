@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-main-rouge.vercel.app)
+- Live Site URL: [Vercel](https://interactive-rating-component-main-rouge.vercel.app)
 
 ### Built with
 
