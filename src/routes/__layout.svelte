@@ -4,6 +4,8 @@
 
 <svelte:head>
 	<title>Frontend Mentor | Interactive rating component</title>
+	<meta name="description" content="Frontend Mentor | Interactive rating component" />
+	<meta name="author" content="https://www.frontendmentor.io/profile/YourFavoriteKyle" />
 
 	<!-- Add custom fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
